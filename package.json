@@ -59,6 +59,7 @@
     "diff": "^5.2.0",
     "framer-motion": "^11.2.12",
     "isbot": "^4.1.0",
+    "@remix-run/node": "latest",
     "istextorbinary": "^9.5.0",
     "jose": "^5.6.3",
     "nanostores": "^0.10.3",
